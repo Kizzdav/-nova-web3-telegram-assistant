@@ -34,3 +34,6 @@ Portfolio/demo project. NOVA is not presented here as an official token or inves
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3693198b-f096-4551-9602-09fa392ad1fb" />
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6855a42e-064d-4341-b76a-2db7bcf48b67" />
+
+
