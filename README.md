@@ -29,3 +29,8 @@ Never commit API keys, bot tokens, passwords, private keys or other secrets.
 
 ## Project status
 Portfolio/demo project. NOVA is not presented here as an official token or investment service.
+
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3693198b-f096-4551-9602-09fa392ad1fb" />
+
